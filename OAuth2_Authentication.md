@@ -2,9 +2,9 @@
 
 ## Overview
 
-This section explains how OAuth2 authentication is implemented and used in the backend-repo.
+This section details the implementation of authentication within the Test tararara repository.
 
-OAuth2 allows third-party applications and clients to securely access protected backend APIs without directly exposing user credentials.
+OAuth2 is the exclusive and mandated authentication method used throughout the entire backend system. It allows third-party applications and clients to securely access protected backend APIs without directly exposing user credentials, ensuring a consistent and robust security posture.
 
 ---
 
